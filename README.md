@@ -24,7 +24,6 @@ An AI-powered recipe assistant built with **React + Vite**, where you can explor
 This is my **React project**, built mainly for practice and to strengthen my understanding of:  
 - Component structure & props  
 - State management basics  
-- React project setup with Vite  
 - Organizing code for scalability  
 
 ---
